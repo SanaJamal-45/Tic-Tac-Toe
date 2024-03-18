@@ -1,8 +1,8 @@
-# My Awesome Project
+# Tic Tac Toe Game
 
 ## Description
-This project is a demonstration of how to use Markdown to write a README file.
+This project is built with HTML,CSS and Javascript.
 
-- It explains how to create headings and descriptions
-- It also includes examples of other Markdown features
-- Feel free to modify and use this README template for your own projects!
+### Contact 
+[Email](sanajamal869@gmail.com)
+
