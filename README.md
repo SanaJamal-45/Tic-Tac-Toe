@@ -4,5 +4,6 @@
 This project is built with HTML,CSS and Javascript.
 
 ### Contact 
-[Email](sanajamal869@gmail.com)
+[Email](mailto:sanajamal869@gmail.com)
+
 
